@@ -39,4 +39,4 @@ Specify your commands here
 ALTER USER 'root'@'loacalhost' IDENTIFIED WITH mysql_native_password BY '5trathmore';
 FLUSH PRIVILEGES
 exit 
-```
+#lab completed well 

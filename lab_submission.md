@@ -34,7 +34,6 @@ change the root password inside the MYSQL shell:
 ## 3. Login using the MySQL Client and Change the MySQL Root Password
 
 ```sql
-Specify your commands here
 #in sql
 ALTER USER 'root'@'loacalhost' IDENTIFIED WITH mysql_native_password BY '5trathmore';
 FLUSH PRIVILEGES
